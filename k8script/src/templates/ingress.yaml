@@ -1,0 +1,19 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: "/"
+    nginx.ingress.kubernetes.io/ssl-redirect: "false"
+  name: cbm-ocs-listener-ingress
+spec:
+  rules:
+  - host: dsp.corpo.t-mobile.pl
+    http:
+      paths:
+      - backend:
+          serviceName: cbm-ocs-listener-srv
+          servicePort: http
+        path: /cbm-ocs-listener/api/
+
+		
+		

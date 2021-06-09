@@ -1,0 +1,29 @@
+{
+	"eventId": "11111111",
+	"eventType": "6010",
+	"eventDescription": "credit-alert",
+	"sourceSystem": "OCS",
+	"sourceDate": "2019-09-25T11:39:45.430Z",
+	"parameters": {
+		"parameter": [
+			{ "name": "language", "value": "2002" },
+			{ "name": "service_retailer", "value": "TMOBILE" },
+			{ "name": "header1", "value": "0048699999984" },
+			{ "name": "eventname", "value": "credit-alert" },
+			{ "name": "notificationcode", "value": "6010" },
+			{ "name": "type", "value": "PIR" },
+			{ "name": "logInteraction", "value": "true" },
+			{ "name": "accountType", "value": "2102" },
+			{ "name": "expireDate", "value": "03/10/2019 00:00:00" },
+			{ "name": "value", "value": "0" },
+			{ "name": "initialAmount", "value": "2500" },
+			{ "name": "nextPIR", "value": "TaurusPIR3Unlimited" },
+			{ "name": "startDate", "value": "03/09/2019 15:19:59" },
+			{ "name": "messageTemplate", "value": "100% ID 2102 PIR3_Taurus_Used_Up" },
+			{ "name": "accountInstanceIDList", "value": "701800000000053594" },
+			{ "name": "purchaseSerialNumberList", "value": "SO_ID:10182" },
+			{ "name": "sessionID", "value": "auto" },
+			{ "name": "sessionID", "value": "1499186203" },
+			{ "name": "sessionID", "value": "0000059747" },
+			{ "name": "sessionID", "value": "0000000001" }]}
+}

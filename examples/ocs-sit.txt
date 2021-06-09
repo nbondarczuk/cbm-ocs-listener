@@ -1,0 +1,9 @@
+tibsit1:7222
+10.21.3.163:7222
+JNDIContextFactory=com.tibco.tibjms.naming.TibjmsInitialContextFactory
+JNDIQueueConnectionFactory=QueueConnectionFactory
+JNDIpassword=06kdgfn8zr
+JNDIuser=cbm
+password=******
+user=cbm
+QUEUE=test.cbm.ocs.alertNotification.EVENT

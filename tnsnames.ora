@@ -1,0 +1,20 @@
+XE =
+ (DESCRIPTION =
+   (ADDRESS_LIST =
+     (ADDRESS = (PROTOCOL = TCP)(HOST = localhost)(PORT = 1521))
+   )
+ (CONNECT_DATA =
+   (SERVICE_NAME = xe)
+ )
+)
+
+t17bscs =
+ (DESCRIPTION =
+   (ADDRESS_LIST =
+     (ADDRESS = (PROTOCOL = TCP)(HOST = 10.21.18.96)(PORT = 1521))
+   )
+ (CONNECT_DATA =
+   (SID = t17bscs)
+ )
+)
+

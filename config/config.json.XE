@@ -1,0 +1,13 @@
+{
+	"RunPath"               : ".",
+	"Debug"                 : "0",
+	"OracleDBUser"          : "CBMGTW",
+	"OracleDBPassword"      : "CBMGTW",
+	"OracleServiceName"     : "XE",
+	"QueueServerUrl"        : "tcp://localhost:7222",
+	"QueueName"             : "xxx",
+	"QueueUser"             : "admin",
+	"QueuePassword"         : "",
+	"CbmServerUrl"          : "http://localhost:80",
+	"SystemResponderUrl"    : ":9000"	
+}
