@@ -4,10 +4,10 @@
 	"OracleDBUser"          : "CBMADM",
 	"OracleDBPassword"      : "cbmadm17",
 	"OracleServiceName"     : "t17bscs",
-	"QueueServerUrl"        : "tcp://10.21.6.152:7222",	
+	"QueueServerUrl"        : "tcp://1.2.3.4:7222",	
 	"QueueName"             : "taurus.cbm.ocs.alertNotification.EVENT",
 	"QueueUser"             : "cbm",
-	"QueuePassword"         : "06kdgfn8zr",
+	"QueuePassword"         : "",
 	"CbmServerUrl"          : "http://localhost:80",
 	"SystemResponderUrl"    : ":9000"
 }
