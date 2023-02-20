@@ -88,7 +88,7 @@ entry_date date not null
 	"OracleDBUser"          : "CBMADM",
 	"OracleDBPassword"      : "*****",
 	"OracleServiceName"     : "t17bscs",
-	"QueueServerUrl"        : "tcp://10.21.6.152:7222",	
+	"QueueServerUrl"        : "tcp://1.2.3.4:7222",	
 	"QueueName"             : "taurus.cbm.ocs.alertNotification.EVENT",
 	"QueueUser"             : "cbm",
 	"QueuePassword"         : "******",
